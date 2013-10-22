@@ -13,7 +13,7 @@
   ],
   "description": "This module simply deploys Matthew's SSH key",
   "summary": "A simple module to deploy Matthew's SSH key",
-  "name": "ssh",
+  "name": "mjssh",
   "author": "matt",
   "version": "1.0.0"
 }
