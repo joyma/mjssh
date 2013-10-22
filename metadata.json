@@ -1,6 +1,7 @@
 {
-  "project_page": "https://github.com/puppetlabs/puppetlabs-motd",
+  "project_page": "https://github.com/joyma/mjssh",
   "license": "Apache License, Version 2.0",
+  "source": "git@github.com:joyma/mjssh",
   "checksums": {
     "manifests/ssh_mjkey.pp": "8c2652ceb3d5ca1e4ce1dcb20deff5e9"
   },
