@@ -1,4 +1,4 @@
 mjssh
 =====
 
-MJs SSH key
+MJs SSH key manifest

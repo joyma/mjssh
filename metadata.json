@@ -1,0 +1,18 @@
+{
+  "project_page": "https://github.com/puppetlabs/puppetlabs-motd",
+  "license": "Apache License, Version 2.0",
+  "checksums": {
+    "manifests/ssh_mjkey.pp": "8c2652ceb3d5ca1e4ce1dcb20deff5e9"
+  },
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "description": "This module simply deploys Matthew's SSH key",
+  "summary": "A simple module to deploy Matthew's SSH key",
+  "name": "ssh",
+  "author": "matt",
+  "version": "1.0.0"
+}
