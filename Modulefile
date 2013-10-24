@@ -1,0 +1,8 @@
+name    'mjssh'
+version '1.0.0'
+source 'git@github.com:joyma/mjssh'
+author 'joyma'
+license 'Apache License, Version 2.0'
+summary 'MJ's public ssh key'
+description 'This module simply installs MJ's publickey'
+project_page 'https://github.com/joyma/mjssh'
